@@ -1,0 +1,529 @@
+<?xml version="1.0"?>
+<arts format="binary" version="1">
+<Array type="ArrayOfSingleScatteringData" nelem="1">
+<Array type="SingleScatteringData" nelem="29">
+<SingleScatteringData version="3">
+<String>"totally_random"</String>
+<String>"Snowflake aggregate, shape files from Evans 2012"</String>
+<Vector nelem="18">
+</Vector>
+<Vector nelem="4">
+</Vector>
+<Vector nelem="31">
+</Vector>
+<Vector nelem="0">
+</Vector>
+<Tensor7 nlibraries="18" nvitrines="4" nshelves="31" nbooks="1" npages="1" nrows="1" ncols="6">
+</Tensor7>
+<Tensor5 nshelves="18" nbooks="4" npages="1" nrows="1" ncols="1">
+</Tensor5>
+<Tensor5 nshelves="18" nbooks="4" npages="1" nrows="1" ncols="1">
+</Tensor5>
+</SingleScatteringData>
+<SingleScatteringData version="3">
+<String>"totally_random"</String>
+<String>"Snowflake aggregate, shape files from Evans 2012"</String>
+<Vector nelem="18">
+</Vector>
+<Vector nelem="4">
+</Vector>
+<Vector nelem="31">
+</Vector>
+<Vector nelem="0">
+</Vector>
+<Tensor7 nlibraries="18" nvitrines="4" nshelves="31" nbooks="1" npages="1" nrows="1" ncols="6">
+</Tensor7>
+<Tensor5 nshelves="18" nbooks="4" npages="1" nrows="1" ncols="1">
+</Tensor5>
+<Tensor5 nshelves="18" nbooks="4" npages="1" nrows="1" ncols="1">
+</Tensor5>
+</SingleScatteringData>
+<SingleScatteringData version="3">
+<String>"totally_random"</String>
+<String>"Snowflake aggregate, shape files from Evans 2012"</String>
+<Vector nelem="18">
+</Vector>
+<Vector nelem="4">
+</Vector>
+<Vector nelem="31">
+</Vector>
+<Vector nelem="0">
+</Vector>
+<Tensor7 nlibraries="18" nvitrines="4" nshelves="31" nbooks="1" npages="1" nrows="1" ncols="6">
+</Tensor7>
+<Tensor5 nshelves="18" nbooks="4" npages="1" nrows="1" ncols="1">
+</Tensor5>
+<Tensor5 nshelves="18" nbooks="4" npages="1" nrows="1" ncols="1">
+</Tensor5>
+</SingleScatteringData>
+<SingleScatteringData version="3">
+<String>"totally_random"</String>
+<String>"Snowflake aggregate, shape files from Evans 2012"</String>
+<Vector nelem="18">
+</Vector>
+<Vector nelem="4">
+</Vector>
+<Vector nelem="31">
+</Vector>
+<Vector nelem="0">
+</Vector>
+<Tensor7 nlibraries="18" nvitrines="4" nshelves="31" nbooks="1" npages="1" nrows="1" ncols="6">
+</Tensor7>
+<Tensor5 nshelves="18" nbooks="4" npages="1" nrows="1" ncols="1">
+</Tensor5>
+<Tensor5 nshelves="18" nbooks="4" npages="1" nrows="1" ncols="1">
+</Tensor5>
+</SingleScatteringData>
+<SingleScatteringData version="3">
+<String>"totally_random"</String>
+<String>"Snowflake aggregate, shape files from Evans 2012"</String>
+<Vector nelem="18">
+</Vector>
+<Vector nelem="4">
+</Vector>
+<Vector nelem="31">
+</Vector>
+<Vector nelem="0">
+</Vector>
+<Tensor7 nlibraries="18" nvitrines="4" nshelves="31" nbooks="1" npages="1" nrows="1" ncols="6">
+</Tensor7>
+<Tensor5 nshelves="18" nbooks="4" npages="1" nrows="1" ncols="1">
+</Tensor5>
+<Tensor5 nshelves="18" nbooks="4" npages="1" nrows="1" ncols="1">
+</Tensor5>
+</SingleScatteringData>
+<SingleScatteringData version="3">
+<String>"totally_random"</String>
+<String>"Snowflake aggregate, shape files from Evans 2012"</String>
+<Vector nelem="18">
+</Vector>
+<Vector nelem="4">
+</Vector>
+<Vector nelem="31">
+</Vector>
+<Vector nelem="0">
+</Vector>
+<Tensor7 nlibraries="18" nvitrines="4" nshelves="31" nbooks="1" npages="1" nrows="1" ncols="6">
+</Tensor7>
+<Tensor5 nshelves="18" nbooks="4" npages="1" nrows="1" ncols="1">
+</Tensor5>
+<Tensor5 nshelves="18" nbooks="4" npages="1" nrows="1" ncols="1">
+</Tensor5>
+</SingleScatteringData>
+<SingleScatteringData version="3">
+<String>"totally_random"</String>
+<String>"Snowflake aggregate, shape files from Evans 2012"</String>
+<Vector nelem="18">
+</Vector>
+<Vector nelem="4">
+</Vector>
+<Vector nelem="31">
+</Vector>
+<Vector nelem="0">
+</Vector>
+<Tensor7 nlibraries="18" nvitrines="4" nshelves="31" nbooks="1" npages="1" nrows="1" ncols="6">
+</Tensor7>
+<Tensor5 nshelves="18" nbooks="4" npages="1" nrows="1" ncols="1">
+</Tensor5>
+<Tensor5 nshelves="18" nbooks="4" npages="1" nrows="1" ncols="1">
+</Tensor5>
+</SingleScatteringData>
+<SingleScatteringData version="3">
+<String>"totally_random"</String>
+<String>"Snowflake aggregate, shape files from Evans 2012"</String>
+<Vector nelem="18">
+</Vector>
+<Vector nelem="4">
+</Vector>
+<Vector nelem="31">
+</Vector>
+<Vector nelem="0">
+</Vector>
+<Tensor7 nlibraries="18" nvitrines="4" nshelves="31" nbooks="1" npages="1" nrows="1" ncols="6">
+</Tensor7>
+<Tensor5 nshelves="18" nbooks="4" npages="1" nrows="1" ncols="1">
+</Tensor5>
+<Tensor5 nshelves="18" nbooks="4" npages="1" nrows="1" ncols="1">
+</Tensor5>
+</SingleScatteringData>
+<SingleScatteringData version="3">
+<String>"totally_random"</String>
+<String>"Snowflake aggregate, shape files from Evans 2012"</String>
+<Vector nelem="18">
+</Vector>
+<Vector nelem="4">
+</Vector>
+<Vector nelem="31">
+</Vector>
+<Vector nelem="0">
+</Vector>
+<Tensor7 nlibraries="18" nvitrines="4" nshelves="31" nbooks="1" npages="1" nrows="1" ncols="6">
+</Tensor7>
+<Tensor5 nshelves="18" nbooks="4" npages="1" nrows="1" ncols="1">
+</Tensor5>
+<Tensor5 nshelves="18" nbooks="4" npages="1" nrows="1" ncols="1">
+</Tensor5>
+</SingleScatteringData>
+<SingleScatteringData version="3">
+<String>"totally_random"</String>
+<String>"Snowflake aggregate, shape files from Evans 2012"</String>
+<Vector nelem="18">
+</Vector>
+<Vector nelem="4">
+</Vector>
+<Vector nelem="31">
+</Vector>
+<Vector nelem="0">
+</Vector>
+<Tensor7 nlibraries="18" nvitrines="4" nshelves="31" nbooks="1" npages="1" nrows="1" ncols="6">
+</Tensor7>
+<Tensor5 nshelves="18" nbooks="4" npages="1" nrows="1" ncols="1">
+</Tensor5>
+<Tensor5 nshelves="18" nbooks="4" npages="1" nrows="1" ncols="1">
+</Tensor5>
+</SingleScatteringData>
+<SingleScatteringData version="3">
+<String>"totally_random"</String>
+<String>"Snowflake aggregate, shape files from Evans 2012"</String>
+<Vector nelem="18">
+</Vector>
+<Vector nelem="4">
+</Vector>
+<Vector nelem="31">
+</Vector>
+<Vector nelem="0">
+</Vector>
+<Tensor7 nlibraries="18" nvitrines="4" nshelves="31" nbooks="1" npages="1" nrows="1" ncols="6">
+</Tensor7>
+<Tensor5 nshelves="18" nbooks="4" npages="1" nrows="1" ncols="1">
+</Tensor5>
+<Tensor5 nshelves="18" nbooks="4" npages="1" nrows="1" ncols="1">
+</Tensor5>
+</SingleScatteringData>
+<SingleScatteringData version="3">
+<String>"totally_random"</String>
+<String>"Snowflake aggregate, shape files from Evans 2012"</String>
+<Vector nelem="18">
+</Vector>
+<Vector nelem="4">
+</Vector>
+<Vector nelem="61">
+</Vector>
+<Vector nelem="0">
+</Vector>
+<Tensor7 nlibraries="18" nvitrines="4" nshelves="61" nbooks="1" npages="1" nrows="1" ncols="6">
+</Tensor7>
+<Tensor5 nshelves="18" nbooks="4" npages="1" nrows="1" ncols="1">
+</Tensor5>
+<Tensor5 nshelves="18" nbooks="4" npages="1" nrows="1" ncols="1">
+</Tensor5>
+</SingleScatteringData>
+<SingleScatteringData version="3">
+<String>"totally_random"</String>
+<String>"Snowflake aggregate, shape files from Evans 2012"</String>
+<Vector nelem="18">
+</Vector>
+<Vector nelem="4">
+</Vector>
+<Vector nelem="61">
+</Vector>
+<Vector nelem="0">
+</Vector>
+<Tensor7 nlibraries="18" nvitrines="4" nshelves="61" nbooks="1" npages="1" nrows="1" ncols="6">
+</Tensor7>
+<Tensor5 nshelves="18" nbooks="4" npages="1" nrows="1" ncols="1">
+</Tensor5>
+<Tensor5 nshelves="18" nbooks="4" npages="1" nrows="1" ncols="1">
+</Tensor5>
+</SingleScatteringData>
+<SingleScatteringData version="3">
+<String>"totally_random"</String>
+<String>"Snowflake aggregate, shape files from Evans 2012"</String>
+<Vector nelem="18">
+</Vector>
+<Vector nelem="4">
+</Vector>
+<Vector nelem="61">
+</Vector>
+<Vector nelem="0">
+</Vector>
+<Tensor7 nlibraries="18" nvitrines="4" nshelves="61" nbooks="1" npages="1" nrows="1" ncols="6">
+</Tensor7>
+<Tensor5 nshelves="18" nbooks="4" npages="1" nrows="1" ncols="1">
+</Tensor5>
+<Tensor5 nshelves="18" nbooks="4" npages="1" nrows="1" ncols="1">
+</Tensor5>
+</SingleScatteringData>
+<SingleScatteringData version="3">
+<String>"totally_random"</String>
+<String>"Snowflake aggregate, shape files from Evans 2012"</String>
+<Vector nelem="18">
+</Vector>
+<Vector nelem="4">
+</Vector>
+<Vector nelem="61">
+</Vector>
+<Vector nelem="0">
+</Vector>
+<Tensor7 nlibraries="18" nvitrines="4" nshelves="61" nbooks="1" npages="1" nrows="1" ncols="6">
+</Tensor7>
+<Tensor5 nshelves="18" nbooks="4" npages="1" nrows="1" ncols="1">
+</Tensor5>
+<Tensor5 nshelves="18" nbooks="4" npages="1" nrows="1" ncols="1">
+</Tensor5>
+</SingleScatteringData>
+<SingleScatteringData version="3">
+<String>"totally_random"</String>
+<String>"Snowflake aggregate, shape files from Evans 2012"</String>
+<Vector nelem="18">
+</Vector>
+<Vector nelem="4">
+</Vector>
+<Vector nelem="121">
+</Vector>
+<Vector nelem="0">
+</Vector>
+<Tensor7 nlibraries="18" nvitrines="4" nshelves="121" nbooks="1" npages="1" nrows="1" ncols="6">
+</Tensor7>
+<Tensor5 nshelves="18" nbooks="4" npages="1" nrows="1" ncols="1">
+</Tensor5>
+<Tensor5 nshelves="18" nbooks="4" npages="1" nrows="1" ncols="1">
+</Tensor5>
+</SingleScatteringData>
+<SingleScatteringData version="3">
+<String>"totally_random"</String>
+<String>"Snowflake aggregate, shape files from Evans 2012"</String>
+<Vector nelem="18">
+</Vector>
+<Vector nelem="4">
+</Vector>
+<Vector nelem="121">
+</Vector>
+<Vector nelem="0">
+</Vector>
+<Tensor7 nlibraries="18" nvitrines="4" nshelves="121" nbooks="1" npages="1" nrows="1" ncols="6">
+</Tensor7>
+<Tensor5 nshelves="18" nbooks="4" npages="1" nrows="1" ncols="1">
+</Tensor5>
+<Tensor5 nshelves="18" nbooks="4" npages="1" nrows="1" ncols="1">
+</Tensor5>
+</SingleScatteringData>
+<SingleScatteringData version="3">
+<String>"totally_random"</String>
+<String>"Snowflake aggregate, shape files from Evans 2012"</String>
+<Vector nelem="18">
+</Vector>
+<Vector nelem="4">
+</Vector>
+<Vector nelem="121">
+</Vector>
+<Vector nelem="0">
+</Vector>
+<Tensor7 nlibraries="18" nvitrines="4" nshelves="121" nbooks="1" npages="1" nrows="1" ncols="6">
+</Tensor7>
+<Tensor5 nshelves="18" nbooks="4" npages="1" nrows="1" ncols="1">
+</Tensor5>
+<Tensor5 nshelves="18" nbooks="4" npages="1" nrows="1" ncols="1">
+</Tensor5>
+</SingleScatteringData>
+<SingleScatteringData version="3">
+<String>"totally_random"</String>
+<String>"Snowflake aggregate, shape files from Evans 2012"</String>
+<Vector nelem="18">
+</Vector>
+<Vector nelem="4">
+</Vector>
+<Vector nelem="241">
+</Vector>
+<Vector nelem="0">
+</Vector>
+<Tensor7 nlibraries="18" nvitrines="4" nshelves="241" nbooks="1" npages="1" nrows="1" ncols="6">
+</Tensor7>
+<Tensor5 nshelves="18" nbooks="4" npages="1" nrows="1" ncols="1">
+</Tensor5>
+<Tensor5 nshelves="18" nbooks="4" npages="1" nrows="1" ncols="1">
+</Tensor5>
+</SingleScatteringData>
+<SingleScatteringData version="3">
+<String>"totally_random"</String>
+<String>"Snowflake aggregate, shape files from Evans 2012"</String>
+<Vector nelem="18">
+</Vector>
+<Vector nelem="4">
+</Vector>
+<Vector nelem="241">
+</Vector>
+<Vector nelem="0">
+</Vector>
+<Tensor7 nlibraries="18" nvitrines="4" nshelves="241" nbooks="1" npages="1" nrows="1" ncols="6">
+</Tensor7>
+<Tensor5 nshelves="18" nbooks="4" npages="1" nrows="1" ncols="1">
+</Tensor5>
+<Tensor5 nshelves="18" nbooks="4" npages="1" nrows="1" ncols="1">
+</Tensor5>
+</SingleScatteringData>
+<SingleScatteringData version="3">
+<String>"totally_random"</String>
+<String>"Snowflake aggregate, shape files from Evans 2012"</String>
+<Vector nelem="18">
+</Vector>
+<Vector nelem="4">
+</Vector>
+<Vector nelem="241">
+</Vector>
+<Vector nelem="0">
+</Vector>
+<Tensor7 nlibraries="18" nvitrines="4" nshelves="241" nbooks="1" npages="1" nrows="1" ncols="6">
+</Tensor7>
+<Tensor5 nshelves="18" nbooks="4" npages="1" nrows="1" ncols="1">
+</Tensor5>
+<Tensor5 nshelves="18" nbooks="4" npages="1" nrows="1" ncols="1">
+</Tensor5>
+</SingleScatteringData>
+<SingleScatteringData version="3">
+<String>"totally_random"</String>
+<String>"Snowflake aggregate, shape files from Evans 2012"</String>
+<Vector nelem="18">
+</Vector>
+<Vector nelem="4">
+</Vector>
+<Vector nelem="241">
+</Vector>
+<Vector nelem="0">
+</Vector>
+<Tensor7 nlibraries="18" nvitrines="4" nshelves="241" nbooks="1" npages="1" nrows="1" ncols="6">
+</Tensor7>
+<Tensor5 nshelves="18" nbooks="4" npages="1" nrows="1" ncols="1">
+</Tensor5>
+<Tensor5 nshelves="18" nbooks="4" npages="1" nrows="1" ncols="1">
+</Tensor5>
+</SingleScatteringData>
+<SingleScatteringData version="3">
+<String>"totally_random"</String>
+<String>"Snowflake aggregate, shape files from Evans 2012"</String>
+<Vector nelem="18">
+</Vector>
+<Vector nelem="4">
+</Vector>
+<Vector nelem="241">
+</Vector>
+<Vector nelem="0">
+</Vector>
+<Tensor7 nlibraries="18" nvitrines="4" nshelves="241" nbooks="1" npages="1" nrows="1" ncols="6">
+</Tensor7>
+<Tensor5 nshelves="18" nbooks="4" npages="1" nrows="1" ncols="1">
+</Tensor5>
+<Tensor5 nshelves="18" nbooks="4" npages="1" nrows="1" ncols="1">
+</Tensor5>
+</SingleScatteringData>
+<SingleScatteringData version="3">
+<String>"totally_random"</String>
+<String>"Snowflake aggregate, shape files from Evans 2012"</String>
+<Vector nelem="18">
+</Vector>
+<Vector nelem="4">
+</Vector>
+<Vector nelem="241">
+</Vector>
+<Vector nelem="0">
+</Vector>
+<Tensor7 nlibraries="18" nvitrines="4" nshelves="241" nbooks="1" npages="1" nrows="1" ncols="6">
+</Tensor7>
+<Tensor5 nshelves="18" nbooks="4" npages="1" nrows="1" ncols="1">
+</Tensor5>
+<Tensor5 nshelves="18" nbooks="4" npages="1" nrows="1" ncols="1">
+</Tensor5>
+</SingleScatteringData>
+<SingleScatteringData version="3">
+<String>"totally_random"</String>
+<String>"Snowflake aggregate, shape files from Evans 2012"</String>
+<Vector nelem="18">
+</Vector>
+<Vector nelem="4">
+</Vector>
+<Vector nelem="241">
+</Vector>
+<Vector nelem="0">
+</Vector>
+<Tensor7 nlibraries="18" nvitrines="4" nshelves="241" nbooks="1" npages="1" nrows="1" ncols="6">
+</Tensor7>
+<Tensor5 nshelves="18" nbooks="4" npages="1" nrows="1" ncols="1">
+</Tensor5>
+<Tensor5 nshelves="18" nbooks="4" npages="1" nrows="1" ncols="1">
+</Tensor5>
+</SingleScatteringData>
+<SingleScatteringData version="3">
+<String>"totally_random"</String>
+<String>"Snowflake aggregate, shape files from Evans 2012"</String>
+<Vector nelem="18">
+</Vector>
+<Vector nelem="4">
+</Vector>
+<Vector nelem="241">
+</Vector>
+<Vector nelem="0">
+</Vector>
+<Tensor7 nlibraries="18" nvitrines="4" nshelves="241" nbooks="1" npages="1" nrows="1" ncols="6">
+</Tensor7>
+<Tensor5 nshelves="18" nbooks="4" npages="1" nrows="1" ncols="1">
+</Tensor5>
+<Tensor5 nshelves="18" nbooks="4" npages="1" nrows="1" ncols="1">
+</Tensor5>
+</SingleScatteringData>
+<SingleScatteringData version="3">
+<String>"totally_random"</String>
+<String>"Snowflake aggregate, shape files from Evans 2012"</String>
+<Vector nelem="18">
+</Vector>
+<Vector nelem="4">
+</Vector>
+<Vector nelem="241">
+</Vector>
+<Vector nelem="0">
+</Vector>
+<Tensor7 nlibraries="18" nvitrines="4" nshelves="241" nbooks="1" npages="1" nrows="1" ncols="6">
+</Tensor7>
+<Tensor5 nshelves="18" nbooks="4" npages="1" nrows="1" ncols="1">
+</Tensor5>
+<Tensor5 nshelves="18" nbooks="4" npages="1" nrows="1" ncols="1">
+</Tensor5>
+</SingleScatteringData>
+<SingleScatteringData version="3">
+<String>"totally_random"</String>
+<String>"Snowflake aggregate, shape files from Evans 2012"</String>
+<Vector nelem="18">
+</Vector>
+<Vector nelem="4">
+</Vector>
+<Vector nelem="241">
+</Vector>
+<Vector nelem="0">
+</Vector>
+<Tensor7 nlibraries="18" nvitrines="4" nshelves="241" nbooks="1" npages="1" nrows="1" ncols="6">
+</Tensor7>
+<Tensor5 nshelves="18" nbooks="4" npages="1" nrows="1" ncols="1">
+</Tensor5>
+<Tensor5 nshelves="18" nbooks="4" npages="1" nrows="1" ncols="1">
+</Tensor5>
+</SingleScatteringData>
+<SingleScatteringData version="3">
+<String>"totally_random"</String>
+<String>"Snowflake aggregate, shape files from Evans 2012"</String>
+<Vector nelem="18">
+</Vector>
+<Vector nelem="4">
+</Vector>
+<Vector nelem="241">
+</Vector>
+<Vector nelem="0">
+</Vector>
+<Tensor7 nlibraries="18" nvitrines="4" nshelves="241" nbooks="1" npages="1" nrows="1" ncols="6">
+</Tensor7>
+<Tensor5 nshelves="18" nbooks="4" npages="1" nrows="1" ncols="1">
+</Tensor5>
+<Tensor5 nshelves="18" nbooks="4" npages="1" nrows="1" ncols="1">
+</Tensor5>
+</SingleScatteringData>
+</Array>
+</Array>
+</arts>

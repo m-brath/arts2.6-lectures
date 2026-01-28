@@ -1,0 +1,133 @@
+<?xml version="1.0"?>
+<arts format="binary" version="1">
+<Array type="ArrayOfSingleScatteringData" nelem="1">
+<Array type="SingleScatteringData" nelem="7">
+<SingleScatteringData version="3">
+<String>"totally_random"</String>
+<String>"Hexagonal plate, using Hong parametrization (Hong 2007)."</String>
+<Vector nelem="15">
+</Vector>
+<Vector nelem="4">
+</Vector>
+<Vector nelem="61">
+</Vector>
+<Vector nelem="0">
+</Vector>
+<Tensor7 nlibraries="15" nvitrines="4" nshelves="61" nbooks="1" npages="1" nrows="1" ncols="6">
+</Tensor7>
+<Tensor5 nshelves="15" nbooks="4" npages="1" nrows="1" ncols="1">
+</Tensor5>
+<Tensor5 nshelves="15" nbooks="4" npages="1" nrows="1" ncols="1">
+</Tensor5>
+</SingleScatteringData>
+<SingleScatteringData version="3">
+<String>"totally_random"</String>
+<String>"Hexagonal plate, using Hong parametrization (Hong 2007)."</String>
+<Vector nelem="15">
+</Vector>
+<Vector nelem="4">
+</Vector>
+<Vector nelem="61">
+</Vector>
+<Vector nelem="0">
+</Vector>
+<Tensor7 nlibraries="15" nvitrines="4" nshelves="61" nbooks="1" npages="1" nrows="1" ncols="6">
+</Tensor7>
+<Tensor5 nshelves="15" nbooks="4" npages="1" nrows="1" ncols="1">
+</Tensor5>
+<Tensor5 nshelves="15" nbooks="4" npages="1" nrows="1" ncols="1">
+</Tensor5>
+</SingleScatteringData>
+<SingleScatteringData version="3">
+<String>"totally_random"</String>
+<String>"Hexagonal plate, using Hong parametrization (Hong 2007)."</String>
+<Vector nelem="15">
+</Vector>
+<Vector nelem="4">
+</Vector>
+<Vector nelem="61">
+</Vector>
+<Vector nelem="0">
+</Vector>
+<Tensor7 nlibraries="15" nvitrines="4" nshelves="61" nbooks="1" npages="1" nrows="1" ncols="6">
+</Tensor7>
+<Tensor5 nshelves="15" nbooks="4" npages="1" nrows="1" ncols="1">
+</Tensor5>
+<Tensor5 nshelves="15" nbooks="4" npages="1" nrows="1" ncols="1">
+</Tensor5>
+</SingleScatteringData>
+<SingleScatteringData version="3">
+<String>"totally_random"</String>
+<String>"Hexagonal plate, using Hong parametrization (Hong 2007)."</String>
+<Vector nelem="15">
+</Vector>
+<Vector nelem="4">
+</Vector>
+<Vector nelem="61">
+</Vector>
+<Vector nelem="0">
+</Vector>
+<Tensor7 nlibraries="15" nvitrines="4" nshelves="61" nbooks="1" npages="1" nrows="1" ncols="6">
+</Tensor7>
+<Tensor5 nshelves="15" nbooks="4" npages="1" nrows="1" ncols="1">
+</Tensor5>
+<Tensor5 nshelves="15" nbooks="4" npages="1" nrows="1" ncols="1">
+</Tensor5>
+</SingleScatteringData>
+<SingleScatteringData version="3">
+<String>"totally_random"</String>
+<String>"Hexagonal plate, using Hong parametrization (Hong 2007)."</String>
+<Vector nelem="15">
+</Vector>
+<Vector nelem="4">
+</Vector>
+<Vector nelem="61">
+</Vector>
+<Vector nelem="0">
+</Vector>
+<Tensor7 nlibraries="15" nvitrines="4" nshelves="61" nbooks="1" npages="1" nrows="1" ncols="6">
+</Tensor7>
+<Tensor5 nshelves="15" nbooks="4" npages="1" nrows="1" ncols="1">
+</Tensor5>
+<Tensor5 nshelves="15" nbooks="4" npages="1" nrows="1" ncols="1">
+</Tensor5>
+</SingleScatteringData>
+<SingleScatteringData version="3">
+<String>"totally_random"</String>
+<String>"Hexagonal plate, using Hong parametrization (Hong 2007)."</String>
+<Vector nelem="15">
+</Vector>
+<Vector nelem="4">
+</Vector>
+<Vector nelem="61">
+</Vector>
+<Vector nelem="0">
+</Vector>
+<Tensor7 nlibraries="15" nvitrines="4" nshelves="61" nbooks="1" npages="1" nrows="1" ncols="6">
+</Tensor7>
+<Tensor5 nshelves="15" nbooks="4" npages="1" nrows="1" ncols="1">
+</Tensor5>
+<Tensor5 nshelves="15" nbooks="4" npages="1" nrows="1" ncols="1">
+</Tensor5>
+</SingleScatteringData>
+<SingleScatteringData version="3">
+<String>"totally_random"</String>
+<String>"Hexagonal plate, using Hong parametrization (Hong 2007)."</String>
+<Vector nelem="15">
+</Vector>
+<Vector nelem="4">
+</Vector>
+<Vector nelem="61">
+</Vector>
+<Vector nelem="0">
+</Vector>
+<Tensor7 nlibraries="15" nvitrines="4" nshelves="61" nbooks="1" npages="1" nrows="1" ncols="6">
+</Tensor7>
+<Tensor5 nshelves="15" nbooks="4" npages="1" nrows="1" ncols="1">
+</Tensor5>
+<Tensor5 nshelves="15" nbooks="4" npages="1" nrows="1" ncols="1">
+</Tensor5>
+</SingleScatteringData>
+</Array>
+</Array>
+</arts>
